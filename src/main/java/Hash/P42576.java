@@ -2,7 +2,8 @@ package Hash;
 
 import java.util.*;
 
-public class 완주하지_못한_선수 {
+//프로그래머스 완주하지 못한 선수
+public class P42576 {
     public static void main(String[] args) {
         String[] participant = {"leo", "kiki", "eden"};
         String[] completion = {"eden", "kiki"};
