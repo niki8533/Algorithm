@@ -19,10 +19,10 @@ public class P42746 {
 
         if(arr[0].equals("0")){
             answer = "0";
-        }
-
-        for(int i = 0 ; i < arr.length ; i++){
-            answer = answer + arr[i];
+        } else {
+            for (int i = 0; i < arr.length; i++) {
+                answer = answer + arr[i];
+            }
         }
 
         System.out.println(answer);
