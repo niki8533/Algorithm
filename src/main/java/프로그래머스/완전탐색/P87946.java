@@ -1,4 +1,4 @@
-package 완전탐색;
+package 프로그래머스.완전탐색;
 
 //프로그래머스 피로도
 public class P87946 {

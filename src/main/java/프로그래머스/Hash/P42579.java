@@ -1,4 +1,4 @@
-package Hash;
+package 프로그래머스.Hash;
 
 import java.util.ArrayList;
 import java.util.Collections;
